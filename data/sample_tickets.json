@@ -1,0 +1,23 @@
+[
+  {"title": "Charged twice this month",
+   "description": "I was charged twice for the Pro plan in September. Please refund the duplicate payment.",
+   "email": "maria@example.com"},
+  {"title": "CSV export broken",
+   "description": "Export to CSV has been failing with a 500 error since Friday. Our whole team can't pull reports and we have a board meeting Thursday.",
+   "email": "dev.lead@example.com"},
+  {"title": "Locked out of my account",
+   "description": "I reset my password but still can't log in. It says my account is locked.",
+   "email": "sam@example.com"},
+  {"title": "Dark mode please",
+   "description": "Would love a dark mode for the dashboard. No rush, just an idea!",
+   "email": "night.owl@example.com"},
+  {"title": "Possible security breach",
+   "description": "We saw logins from an unknown country on our admin account. We think we were hacked. Urgent!",
+   "email": "it-admin@example.com"},
+  {"title": "Third time asking",
+   "description": "The invoice PDF still shows our old address. Fix it this week or we cancel our subscription.",
+   "email": "finance@example.com"},
+  {"title": "Question about your company",
+   "description": "Hi, are you hiring interns for next summer?",
+   "email": "student@example.com"}
+]

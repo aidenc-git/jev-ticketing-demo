@@ -1,0 +1,29 @@
+# API credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python virtual environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local application data
+data/tickets.json
+
+# Test results
+**/results/
+**/report.json
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local logs
+*.log
